@@ -6,6 +6,7 @@ A professional-grade, multi-user QR code generator and management system. This a
 
 ```
 qr-vault-pro/
+├── vercel.json         # Vercel deployment configuration
 ├── app.py              # Main entry point; initializes Flask & Database
 ├── config.py           # Application configurations & environment settings
 ├── models.py           # SQLAlchemy Database models (Users & QRRecords)
